@@ -43,7 +43,34 @@ Now we are ready to buy the tokens.
  Puppercoin address
  0x96C8B44c925536Ae2D7F40A177cD5b4e4046253a
 
- ![Screenshot1](/Screenshots/TOkenBuyingSucess-Metamaskscreenshot.PNG)
+ ![SuccessfulTokenBuy-Metamask](/Screenshots/TOkenBuyingSucess-Metamaskscreenshot.PNG)
+ 
+ ![DetailedLog-BuyTokenTransaction](/Screenshots/DetailedLogofBuyingToken.PNG)
+ 
+ ![BalanceBeforeTransaction](/Screenshots/BalanceBeforeTransaction.PNG)
+ 
+ ![Buying25Tokens](/Screenshots/Buying25Tokens.PNG)
+ 
+ ![Metamask25TokenConfirm](/Screenshots/Metamask25TokenConfirm.PNG)
+ 
+ ![Buying25TOken-TransactionSuccessful](/Screenshots/Buying25TOken-TransactionSuccessful.PNG)
+ 
+ ![AccoutBalanceAfterbuying25tokens](/Screenshots/AccoutBalanceAfterbuying25tokens.PNG)
+ 
+ ![MetamaskTransactionConfirmation25tokens](/Screenshots/MetamaskTransactionConfirmation25tokens.PNG)
+ 
+ ![BalanceOfshows25tokensdeposited](/Screenshots/BalanceOfshows25tokensdeposited.PNG)
+ 
+ ![TestingCapexceededError](/Screenshots/TestingCapexceededError.PNG)
+ 
+ ![TimedOutSaleClosedError](/Screenshots/TimedOutSaleClosedError.PNG)
+ 
+ ![DeployedtoRopstenNetwork](/Screenshots/DeployedtoRopstenNetwork.PNG)
+ 
+ ![Transaction100weiOnRopstenNetwork](/Screenshots/Transaction100weiOnRopstenNetwork.PNG)
+ 
+ ![EtherscanSuccess100WeiTransaction](/Screenshots/EtherscanSuccess100WeiTransaction.PNG)
+ 
 
 
 
