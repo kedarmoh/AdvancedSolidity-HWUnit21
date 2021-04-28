@@ -43,7 +43,7 @@ Now we are ready to buy the tokens.
  Puppercoin address
  0x96C8B44c925536Ae2D7F40A177cD5b4e4046253a
 
- [Screenshot](../screenshots/TOkenBuyingSucess-Metamaskscreenshot.PNG)
+ [Screenshot](/screenshots/TOkenBuyingSucess-Metamaskscreenshot.PNG)
 
 
 
