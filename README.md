@@ -34,6 +34,7 @@ Now we are ready to buy the tokens.
 
 
  Address of contracts deployed to Ropsten network.
+ 
  PuppercoinSaleDeployer address
  0xbbdf28C8bb4B56De7af0bB66b80664A7688f9380 
 
@@ -42,6 +43,8 @@ Now we are ready to buy the tokens.
 
  Puppercoin address
  0x96C8B44c925536Ae2D7F40A177cD5b4e4046253a
+ 
+ ### Screenshots of the testing and deployment of the Crowdsale
 
  ![SuccessfulTokenBuy-Metamask](/Screenshots/TOkenBuyingSucess-Metamaskscreenshot.PNG)
  
